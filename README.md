@@ -1,4 +1,5 @@
 # Tile Matching Game
+https://github.com/gilbert-ku/tile-game/issues/1#issue-1724756390
 By Gilbert Kutoto
 ### Setup.
 Background image JavaScript HTML CSS
