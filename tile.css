@@ -30,6 +30,7 @@ button {
     font-size: 18pt;
 }
 
+
 .disabled {
     color: #757575;
 }
@@ -37,6 +38,10 @@ button {
 .stats {
     color: #FFF;
     font-size: 14pt;
+    color: black;
+}
+.stats .timer {
+    color: black;
 }
  /* boarder */
 .board-container {
